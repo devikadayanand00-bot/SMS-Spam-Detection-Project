@@ -1,4 +1,4 @@
-# SMS Spam Detection — PyCharm Console Project
+#SMS Spam Detection Using Machine Learning and Data Mining
 
 ## Overview
 A machine-learning/data-mining project that classifies an SMS as SPAM or HAM (legitimate).
